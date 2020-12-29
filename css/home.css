@@ -1,0 +1,13 @@
+#inrBox {
+  text-align: center;
+  height: 180px;
+  width: 190px;
+  border: 1px solid black;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 20px; }
+
+nav {
+  text-align: center;
+  font-size: 25px; }
